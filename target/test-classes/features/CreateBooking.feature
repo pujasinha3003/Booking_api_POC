@@ -1,5 +1,5 @@
 @bookerAPI @createBooking
-Feature: To create a new booking in restful-booker
+Feature: To create a brand new booking in restful-booker
 
   @createBookingDataTable
   Scenario Outline: To create new booking using cucumber Data Table
