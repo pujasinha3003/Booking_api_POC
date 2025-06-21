@@ -1,0 +1,33 @@
+21-06-2025 14:25:35 INFO  Hooks:15 - *****************************************************************************************
+21-06-2025 14:25:35 INFO  Hooks:16 - 	Scenario: To create new booking using cucumber Data Table
+21-06-2025 14:25:35 INFO  Hooks:17 - *****************************************************************************************
+21-06-2025 14:25:41 INFO  CreateBookingStepdefinition:48 - Newly created booking ID: 2563
+21-06-2025 14:25:41 INFO  CreateBookingStepdefinition:54 - {"firstname":"John","additionalneeds":"Breakfast","checkin":"2025-05-05","totalprice":"3000","depositpaid":"true","checkout":"2025-05-15","lastname":"Doe"}
+21-06-2025 14:25:44 INFO  ViewBookingDetailsStepdefinition:81 - Successfully Validated schema from createBookingSchema.json
+21-06-2025 14:25:44 INFO  Hooks:15 - *****************************************************************************************
+21-06-2025 14:25:44 INFO  Hooks:16 - 	Scenario: To create new booking using cucumber Data Table
+21-06-2025 14:25:44 INFO  Hooks:17 - *****************************************************************************************
+21-06-2025 14:25:45 INFO  CreateBookingStepdefinition:48 - Newly created booking ID: 2601
+21-06-2025 14:25:45 INFO  CreateBookingStepdefinition:54 - {"firstname":"Jane","additionalneeds":"Dinner","checkin":"2025-06-01","totalprice":"4400","depositpaid":"false","checkout":"2025-07-10","lastname":"Doe"}
+21-06-2025 14:25:45 INFO  ViewBookingDetailsStepdefinition:81 - Successfully Validated schema from createBookingSchema.json
+21-06-2025 14:25:45 INFO  Hooks:15 - *****************************************************************************************
+21-06-2025 14:25:45 INFO  Hooks:16 - 	Scenario: To delete a booking
+21-06-2025 14:25:45 INFO  Hooks:17 - *****************************************************************************************
+21-06-2025 14:25:47 INFO  UpdateBookingStepdefinition:35 - Auth Token: b6b5e24a212e7b1
+21-06-2025 14:25:49 INFO  ViewBookingDetailsStepdefinition:33 - Booking ID: 430
+21-06-2025 14:25:50 INFO  Hooks:15 - *****************************************************************************************
+21-06-2025 14:25:50 INFO  Hooks:16 - 	Scenario: To update a booking using cucumber Data Table
+21-06-2025 14:25:50 INFO  Hooks:17 - *****************************************************************************************
+21-06-2025 14:25:51 INFO  UpdateBookingStepdefinition:35 - Auth Token: b3f233117e9a250
+21-06-2025 14:25:53 INFO  ViewBookingDetailsStepdefinition:33 - Booking ID: 1466
+21-06-2025 14:25:54 INFO  ViewBookingDetailsStepdefinition:81 - Successfully Validated schema from bookingDetailsSchema.json
+21-06-2025 14:25:54 INFO  Hooks:15 - *****************************************************************************************
+21-06-2025 14:25:54 INFO  Hooks:16 - 	Scenario: To update a booking using cucumber Data Table
+21-06-2025 14:25:54 INFO  Hooks:17 - *****************************************************************************************
+21-06-2025 14:25:55 INFO  UpdateBookingStepdefinition:35 - Auth Token: 3b6ec0c4457574c
+21-06-2025 14:25:56 INFO  ViewBookingDetailsStepdefinition:33 - Booking ID: 1466
+21-06-2025 14:25:58 INFO  ViewBookingDetailsStepdefinition:81 - Successfully Validated schema from bookingDetailsSchema.json
+21-06-2025 14:25:58 INFO  Hooks:15 - *****************************************************************************************
+21-06-2025 14:25:58 INFO  Hooks:16 - 	Scenario: To view all the booking IDs
+21-06-2025 14:25:58 INFO  Hooks:17 - *****************************************************************************************
+21-06-2025 14:25:59 INFO  ViewBookingDetailsStepdefinition:33 - Booking ID: 1466
