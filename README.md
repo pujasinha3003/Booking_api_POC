@@ -17,3 +17,6 @@ Once the execution completes report & log will be generated in below folder.
 
 **Report:** 		*target/report*<br>
 **Log:** 		*target/logs*
+
+## **Created CI/CD :**
+once we push anything the report will be gernertaed at tarhet filder with test results.
