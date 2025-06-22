@@ -14,11 +14,13 @@ For Demo purpose all the test cases are done on [Restful-booker](https://restful
 ## **Running Test:**
 
 1.Run TestRunner class as JUNit(If we want local run, however we can see report at git also when we push any code ) 
+
 2.It will invoke all four feature file which are doing opeartion for CRUD
+
 3.Once the execution completes report & log will be generated in below folder.
 
 **Report:** 		*target/report*<br>
 **Log:** 		*target/logs*
 
 ## **Created CI/CD with gitActions:**
-once we push anycode in git then git actions would get invoked through .github/workflows/maven.yml file steps mentioned and  test report will be gernertaed at target folder with test results.
+once we push anycode in git then git actions would get invoked through .github/workflows/maven.yml file steps mentioned and  test report will be gernertaed at target folder with test results(target/Report).
